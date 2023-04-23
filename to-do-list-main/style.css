@@ -1,0 +1,22 @@
+#bdy{
+    height: 300px;
+    width: 400px;
+    background-color: aqua;
+    margin: auto;
+    padding: 10px;
+    border: solid 2px black;
+    box-shadow: 5px 5px 5px rgb(18, 104, 108);
+    border-radius: 5px;
+}
+
+#inp{
+    padding: 10px;
+}
+#inp2{
+    padding: 15px;
+}
+#textarea{
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+}
